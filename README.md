@@ -18,7 +18,7 @@ we start with The most basic task of the Duckiebot is lane following.
       4.lane centroid is calculated, and error is deduced.
       5. input these calculation in reinforcment learning to start learning and take the next best action
 
-## Model
+## Model pipline
 We need to solve this problem by using reinforcement learning.
 OpenAI ROS provide a way to build a reinforcment learning algorithm by using ROS to control the agent(i.e car) 
 To make the agent train by itself we will build some parts:
@@ -26,5 +26,6 @@ To make the agent train by itself we will build some parts:
   - Robot environment
   - Task environment 
   - learning algorithm(i.e. training script)
+<img src=https://github.com/NaNo211/duckie_town_reinforcement/blob/main/pipeline.png width="250" height="250" />
 
 ## Results
