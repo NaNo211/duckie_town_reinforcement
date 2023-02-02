@@ -29,3 +29,5 @@ To make the agent train by itself we will build some parts:
 <img src=https://github.com/NaNo211/duckie_town_reinforcement/blob/main/pipeline.png />
 
 ## Results
+after 100 epoch the episode reward reached 6000
+<img src=https://github.com/NaNo211/duckie_town_reinforcement/blob/main/solved.png />
