@@ -26,6 +26,6 @@ To make the agent train by itself we will build some parts:
   - Robot environment
   - Task environment 
   - learning algorithm(i.e. training script)
-<img src=https://github.com/NaNo211/duckie_town_reinforcement/blob/main/pipeline.png width="250" height="250" />
+<img src=https://github.com/NaNo211/duckie_town_reinforcement/blob/main/pipeline.png />
 
 ## Results
